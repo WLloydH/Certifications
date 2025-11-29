@@ -6,6 +6,7 @@ Showcasing key professional certifications and compliance.
 
 ## 🎓 DP-300 – Administering Relational Databases on Microsoft Azure
 **Azure Database Administrator Associate**  
+Certificate ID: **DP300 Cert 7C1315-LD8125**  
 Expertise in **Azure SQL, database administration, and cloud data solutions**.  
 🔗 Official Microsoft certification page: [DP-300 Certification](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/?practice-assessment-type=certification)
 
