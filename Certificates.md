@@ -10,6 +10,7 @@ Certificate ID: **DP300 Cert 7C1315-LD8125**
 Expertise in **Azure SQL, database administration, and cloud data solutions**.  
 🔗 Official Microsoft certification page: [DP-300 Certification](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/?practice-assessment-type=certification)
 
+<img width="879" height="533" alt="image" src="https://github.com/user-attachments/assets/d3f0e681-33af-45b8-bec9-ac2f0bb34521" />
 ---
 
 ## 🛡️ CJIS Security Awareness – Level 4
