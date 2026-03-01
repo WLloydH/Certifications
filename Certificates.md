@@ -23,11 +23,8 @@ Experience administering **sensitive CJI data systems** while maintaining full c
 
 ---
 
-## ⚡ Quick Highlights
-- Maintained **database-level access and DBA privileges** for CJI systems since 2015  
-- Developed and managed **security protocols** to ensure 100% compliance  
-- Coordinated **secure sharing of CJI data** across state and local jurisdictions
 
+## 🎓CompTIA Security+ (SY0-701) – Certificate of Completion
 <img width="1057" height="820" alt="image" src="https://github.com/user-attachments/assets/40711463-f021-449f-b095-c3290cdfdb7c" />
 
 <img width="1057" height="820" alt="image" src="https://github.com/user-attachments/assets/40a69078-d00f-4be5-b152-0cdbc964714b" />
