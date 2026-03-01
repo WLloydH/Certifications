@@ -14,6 +14,8 @@ Expertise in **Azure SQL, database administration, and cloud data solutions**.
 ---
 
 ## 🛡️ CJIS Security Awareness – Level 4
+<img width="883" height="684" alt="image" src="https://github.com/user-attachments/assets/29e33506-450d-45ba-bdd4-30dfa0003266" />
+
 **Criminal Justice Information Systems Security**  
 Experience administering **sensitive CJI data systems** while maintaining full compliance with **FBI CJIS Security Policy**.  
 
