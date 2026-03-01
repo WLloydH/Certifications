@@ -26,6 +26,7 @@ Experience administering **sensitive CJI data systems** while maintaining full c
 
 ## 🎓CompTIA Security+ (SY0-701) – Certificate of Completion
 <img width="1057" height="820" alt="image" src="https://github.com/user-attachments/assets/40711463-f021-449f-b095-c3290cdfdb7c" />
+GitHub
+<img width="886" height="684" alt="image" src="https://github.com/user-attachments/assets/802d5794-9842-4ead-9032-90e2a015c761" />
 
-<img width="1057" height="820" alt="image" src="https://github.com/user-attachments/assets/40a69078-d00f-4be5-b152-0cdbc964714b" />
 
